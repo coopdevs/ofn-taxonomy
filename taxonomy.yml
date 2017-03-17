@@ -1,0 +1,60 @@
+bakery:
+  name: Panadería
+  permalink: panaderia
+  icon: taxons_bakery.svg
+dairy_milk:
+  name: Lácteos
+  permalink: lacteos
+  icon: taxons_dairy_milk.svg
+drinks:
+  name: Bebidas
+  permalink: bebidas
+  icon: taxons_drinks.svg
+fruit:
+  name: Fruta
+  permalink: fruta
+  icon: taxons_fruit.svg
+herbs_spices:
+  name: Hierbas y Especias
+  permalink: hierbas-especias
+  icon: taxons_herbs_spices.svg
+household:
+  name: Para la Casa
+  permalink: para-la-casa
+  icon: taxons_household.svg
+meat_fish:
+  name: Carne y Pescado
+  permalink: carne-pescado
+  icon: taxons_meat_fish.svg
+nuts_dried-fruits:
+  name: Frutos Secos
+  permalink: frutos-secos
+  icon: taxons_nuts_dried-fruits.svg
+oils_spreads:
+  name: Aceite
+  permalink: aceite
+  icon: taxons_oils_spreads.svg
+other:
+  name: Otros
+  permalink: otros
+  icon:
+pickles_preserves:
+  name: Conservas
+  permalink: conservas
+  icon: taxons_pickles_preserves.svg
+poultry_eggs:
+  name: Pollo y Huevos
+  permalink: pollo-huevos
+  icon: taxons_poultry_eggs.svg
+prepared-meals:
+  name: Comida Preparada
+  permalink: comida-preparada
+  icon: taxons_prepared-meals.svg
+pulses_grains:
+  name: Granos y Legumbres
+  permalink: grano-legumbres
+  icon: taxons_pulses_grains.svg
+vegetables:
+  name: Verduras
+  permalink: verduras
+  icon: taxons_vegetables.svg
